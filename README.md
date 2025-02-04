@@ -1,3 +1,3 @@
 # brick_breaker
 
-A new Flutter project.
+A mini game that you need to break some blocks using a boll, created with Flutter.
