@@ -5,4 +5,4 @@
 ## To run the game, you need to go to folder lib, then run the file main.dart
 
 
-![mini-game-image](breakbreaker.png)
+![mini-game-image](brickbreaker.png)
